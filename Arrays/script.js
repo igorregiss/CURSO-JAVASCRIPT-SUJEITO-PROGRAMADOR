@@ -1,0 +1,1 @@
+var lista = ['Igor', 'José', 'Chico', 150];
